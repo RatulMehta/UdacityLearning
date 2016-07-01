@@ -6,3 +6,5 @@ commit 1
 commit 2
 commit 3 alpha 
 commit 4 master 
+commit 5 beta retry
+commit 6 master
